@@ -1,3 +1,7 @@
+# Win32 version download
+
+https://github.com/defisym/FFmpeg-Builds-Win32
+
 # FFmpeg Static Auto-Builds
 
 Static Windows (x86_64) and Linux (x86_64) Builds of ffmpeg master and latest release branch.
